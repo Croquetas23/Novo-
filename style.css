@@ -17,3 +17,11 @@
         border-radius: 0 40px 0 0;
     }
 }
+
+@media screen and (mid-width:768px) {
+    .botoes{
+    display:flex;
+    }
+    .botao:first-child {
+     border-radius: 40px 0 0 0;
+    }
